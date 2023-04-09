@@ -1,0 +1,23 @@
+$ git log
+commit 53827aaf5c4b4e194c13de9881f17ce279c8f79a (HEAD -> master, origin/master, origin/HEAD)
+Merge: affc362 b57f604
+Author: BozhidarCvetkoski <99350717+BozhidarCvetkoski@users.noreply.github.com>
+Date:   Sun Apr 9 15:58:45 2023 +0200
+
+    Merge pull request #3 from BozhidarCvetkoski/bug3
+
+     Fix method sumEvenNumbers
+
+commit affc362f387a28ffe4281628251047a4a4416eb1
+Merge: 4e1ed9f 2edec9a
+Author: BozhidarCvetkoski <99350717+BozhidarCvetkoski@users.noreply.github.com>
+Date:   Sun Apr 9 15:58:25 2023 +0200
+
+    Merge pull request #2 from BozhidarCvetkoski/bug2
+
+    Fix wrong condition in filterOddNumbers
+
+commit 4e1ed9fa935eb52e3b88ba250a0985f1cb69308e
+Merge: de9fa53 61c7e1d
+Author: BozhidarCvetkoski <99350717+BozhidarCvetkoski@users.noreply.github.com>
+Date:   Sun Apr 9 15:57:30 2023 +0200
